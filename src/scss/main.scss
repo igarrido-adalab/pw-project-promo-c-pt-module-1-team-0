@@ -9,3 +9,11 @@
 .member__socialicon {
   color: $color_blue_green;
 }
+.team {
+  &__title {
+    text-transform: uppercase;
+    color: #14d9c4;
+    text-align: center;
+    margin-bottom: 16px;
+  }
+}
