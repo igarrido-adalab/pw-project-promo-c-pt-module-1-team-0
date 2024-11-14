@@ -1,0 +1,19 @@
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+ 
+  color: #ffffff;
+  opacity: 0.95;
+
+  
+  &__title {
+    padding: 20px 0;
+    background-color: $color_blue_green;
+  }
+  
+}
+
+.menu {
+  background-color: $color_aqua;
+}
